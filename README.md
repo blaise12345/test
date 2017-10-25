@@ -1,4 +1,4 @@
-<1DOCTYPE html>
-  <html>
-    <p>test</p>
-  </html>
+<html>
+  <head>header</head> 
+  <p>test</p>
+</html>
