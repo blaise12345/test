@@ -1,4 +1,4 @@
-<1DOCTYPE=html>
+<1DOCTYPE html>
   <html>
     <p>test</p>
   </html>
